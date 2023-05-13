@@ -28,7 +28,7 @@
  |해당 규칙|내용|설명|
 |------|----------|----------|
 |Commit|[사이트] 해당 문제 제목 / 난이도 <br> 문제 사이트 주소|[BOJ] : 백준 <br> [PGS] : 프로그래머스|
-|PR|이름 / 주차 / 문제 갯수|PR 내부 규칙은 Template 참고|
+|PR|[주차] 이름 / 문제 제목(외 개수)|PR 내부 규칙은 Template 참고|
 |Issue|[Issue 키워드 (error, merge, fix...)] 내용 |Issue 내부 규칙은 Template 참고|
   
   - commit 터미널 예시
