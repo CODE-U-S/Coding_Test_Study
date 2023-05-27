@@ -19,13 +19,12 @@ public class _2231 {
                     arr[i] = 0;
                     arr[j] = 0;
                     Arrays.sort(arr);
+                    for (int k = 2; k < arr.length; k++) {
+                        System.out.println(arr[k]);
+                    }
+                    return;
                 }
             }
         }
-
-        for (int i = 2; i < arr.length; i++) {
-            System.out.println(arr[i]);
-        }
-
     }
 }
