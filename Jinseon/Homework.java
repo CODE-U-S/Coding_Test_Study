@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Homework {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -10,13 +10,16 @@ public class Main {
 		int korMax = sc.nextInt();
 		int mathMax = sc.nextInt();
 
-		kor = (kor % korMax == 0) ? kor / korMax : kor / korMax+1;
+		kor = (kor % korMax == 0) ? kor / korMax : kor / korMax + 1;
 		math = (math % mathMax == 0) ? math /
-		mathMax : math / mathMax + 1;
-		if(math >kor) vd = vd - math;
-		else vd = vd - kor;
+				mathMax : math / mathMax + 1;
+		if (math > kor)
+			vd = vd - math;
+		else
+			vd = vd - kor;
 		System.out.println(vd);
-		
+
+		sc.close();
 	}
 
 }
