@@ -9,7 +9,7 @@ public class BaekJoon_No_3052 {
         for(int i = 0; i < 10; i++)
             a.add(sc.nextInt() % 42);
 
-        Collections.sort(a);
+        // Collections.sort(a);
         
         int cnt = 1;
         int tmp = a.get(0);
