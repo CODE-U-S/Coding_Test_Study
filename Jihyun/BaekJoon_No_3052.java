@@ -8,6 +8,11 @@ public class BaekJoon_No_3052 {
         ArrayList<Integer> a = new ArrayList<>();
         for(int i = 0; i < 10; i++)
             a.add(sc.nextInt() % 42);
+<<<<<<< HEAD
+
+        // Collections.sort(a);
+=======
+>>>>>>> 9fe7e126c7d1aa32f427083cfa4723169645a8d3
         
         int cnt = 1;
         int tmp = a.get(0);
