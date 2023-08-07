@@ -1,4 +1,4 @@
-package Sojeong;
+package Sojeong.Baekjoon;
 
 import java.util.Scanner;
 import java.lang.Math;
@@ -8,5 +8,7 @@ public class BOJ_2420 {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextInt(), m = sc.nextInt();
         System.out.println(Math.abs(n - m));
+
+        sc.close();
     }
 }
