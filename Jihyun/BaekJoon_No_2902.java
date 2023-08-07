@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BaekJoon_No_1902 {
+public class BaekJoon_No_2902 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.next();
