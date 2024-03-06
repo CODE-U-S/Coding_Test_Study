@@ -9,7 +9,7 @@ class Solution {
     }
 }
 
-public class VerticalReading {
+public class Programmers_VerticalReading {
 	public static void main(String args[]) {
         // 테스트
 		String my_string = "dkHwldkelakdldjfkldkfdodjf";
