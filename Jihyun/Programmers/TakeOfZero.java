@@ -1,3 +1,5 @@
+package Programmers;
+
 class Solution {
     public String solution(String str) {
         String answer = String.valueOf(Integer.parseInt(str));
@@ -5,7 +7,7 @@ class Solution {
     }
 }
 
-public class Programmers_TakeOfZero {
+public class TakeOfZero {
     public static void main(String args[]) {
         String str = "0010";
         Solution s = new Solution();

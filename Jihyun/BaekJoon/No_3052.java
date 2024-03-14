@@ -1,8 +1,9 @@
+package BaekJoon;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class BaekJoon_No_3052 {
+public class No_3052 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<Integer> a = new ArrayList<>();

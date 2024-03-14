@@ -1,3 +1,5 @@
+package Programmers;
+
 class Solution {
     public int solution(int[] str, int idx) {
         int answer = -1;
@@ -11,7 +13,7 @@ class Solution {
     }
 }
 
-public class Programmers_FindTheNearest1 {
+public class FindTheNearest1 {
     public static void main(String args[]) {
         int[] str = {0, 0, 0, 1};
         int idx = 3;

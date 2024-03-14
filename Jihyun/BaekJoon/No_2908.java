@@ -1,6 +1,7 @@
+package BaekJoon;
 import java.util.Scanner;
 
-public class BaekJoon_No_2908 {
+public class No_2908 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int a[] = {sc.nextInt(), sc.nextInt()};

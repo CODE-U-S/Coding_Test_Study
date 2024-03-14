@@ -1,3 +1,5 @@
+package Programmers;
+
 class Solution {
     public String solution(String letter) {
         String answer = "";
@@ -16,7 +18,7 @@ class Solution {
     }
 }
 
-public class Programmers_MorseCode {
+public class MorseCode {
     public static void main(String args[]) {
         String letter = ".... . .-.. .-.. ---";
         Solution s = new Solution();
