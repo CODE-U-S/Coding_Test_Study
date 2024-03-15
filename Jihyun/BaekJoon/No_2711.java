@@ -1,7 +1,8 @@
+package BaekJoon;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class BaekJoon_No_2711 {
+public class No_2711 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		StringBuilder sb = new StringBuilder();

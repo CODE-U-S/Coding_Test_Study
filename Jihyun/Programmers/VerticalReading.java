@@ -1,3 +1,5 @@
+package Programmers;
+
 class Solution {
     public String solution(String my_string, int m, int c) {
         String answer = "";
@@ -9,7 +11,7 @@ class Solution {
     }
 }
 
-public class Programmers_VerticalReading {
+public class VerticalReading {
 	public static void main(String args[]) {
         // 테스트
 		String my_string = "dkHwldkelakdldjfkldkfdodjf";

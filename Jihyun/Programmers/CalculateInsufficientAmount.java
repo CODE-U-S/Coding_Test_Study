@@ -1,3 +1,5 @@
+package Programmers;
+
 class Solution {
     public long solution(int price, int money, int count) {
         long answer = -1;
@@ -11,7 +13,7 @@ class Solution {
     }
 }
 
-public class Programmers_CalculateInsufficientAmount {
+public class CalculateInsufficientAmount {
     public static void main(String args[]) {
         Solution s = new Solution();
         System.out.println(s.solution(3,20,4));

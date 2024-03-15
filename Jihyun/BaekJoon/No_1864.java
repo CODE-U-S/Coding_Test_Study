@@ -1,8 +1,9 @@
+package BaekJoon;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class BaekJoon_No_1864 {
+public class No_1864 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		HashMap<String, Integer> h = new HashMap<>();

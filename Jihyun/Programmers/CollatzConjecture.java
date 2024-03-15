@@ -1,3 +1,5 @@
+package Programmers;
+
 class Solution {
     public int solution(int num) {
         int answer = 0;
@@ -20,7 +22,7 @@ class Solution {
     }
 }
 
-public class Programmers_CollatzConjecture {
+public class CollatzConjecture {
     public static void main(String args[]) {
         int num = 16;
         Solution s = new Solution();

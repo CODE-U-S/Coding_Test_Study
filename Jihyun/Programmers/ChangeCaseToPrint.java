@@ -1,6 +1,7 @@
+package Programmers;
 import java.util.Scanner;
 
-public class Programmers_ChangeCaseToPrint {
+public class ChangeCaseToPrint {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String a = sc.next();
