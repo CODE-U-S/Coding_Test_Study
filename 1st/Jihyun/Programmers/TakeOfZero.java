@@ -1,5 +1,3 @@
-package Programmers;
-
 class Solution {
     public String solution(String str) {
         String answer = String.valueOf(Integer.parseInt(str));

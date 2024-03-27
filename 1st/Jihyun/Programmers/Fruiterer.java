@@ -1,5 +1,3 @@
-package Programmers;
-
 import java.util.Arrays;
 
 class Solution {
