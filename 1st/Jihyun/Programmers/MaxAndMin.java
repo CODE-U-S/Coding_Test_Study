@@ -17,5 +17,10 @@ class Solution {
 }
 
 public class MaxAndMin {
-    
+    public static void main(String[] args) {
+        String a = "1 2 3 4";
+        Solution s = new Solution();
+        String answer = s.solution(a);
+        System.out.println(answer);
+    }
 }
