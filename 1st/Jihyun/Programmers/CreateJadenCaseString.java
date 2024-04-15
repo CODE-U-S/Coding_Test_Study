@@ -8,7 +8,7 @@ class Solution {
             a = (i.equals(" ")) ? true : false;
         }
         return answer;
-    }
+    } 
 }
 
 public class CreateJadenCaseString {
