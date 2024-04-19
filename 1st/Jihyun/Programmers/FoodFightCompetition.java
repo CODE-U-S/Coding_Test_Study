@@ -19,7 +19,7 @@ class Solution {
 
 public class FoodFightCompetition {
     public static void main(String args[]) {
-        int[] a = {1, 3, 4, 6};  // 1223330333221
+        int[] a = {1, 3, 4, 6};
         String answer;
         Solution s = new Solution();
         answer = s.solution(a);
