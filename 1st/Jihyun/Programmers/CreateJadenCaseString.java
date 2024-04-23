@@ -3,12 +3,12 @@ class Solution {
         String answer = "";
         boolean a = true;
         s = s.toLowerCase();
-        for(String i : s.split("")) {
+        for (String i : s.split("")) {
             answer += a ? i.toUpperCase() : i;
             a = (i.equals(" ")) ? true : false;
         }
         return answer;
-    } 
+    }
 }
 
 public class CreateJadenCaseString {
