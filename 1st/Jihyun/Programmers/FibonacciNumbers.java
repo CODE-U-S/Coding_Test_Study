@@ -19,6 +19,4 @@ public class FibonacciNumbers {
 		int answer = s.solution(a);
 		System.out.println(answer);  // 2
 	}
-}{
-
 }
