@@ -1,0 +1,5 @@
+x, y = input().split()
+a = int(x[::-1])
+b = int(y[::-1])
+result = int(a+b)
+print(int(str(result)[::-1]))
