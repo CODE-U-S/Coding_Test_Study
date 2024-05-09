@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class CreateJadenCaseString {
+class CreateJadenCaseString {
     public static void main(String[] args) {
         Solution s = new Solution();
         String a = "3people unFollowed me";

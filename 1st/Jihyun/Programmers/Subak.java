@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-public class Subak {
+class Subak {
     public static void main(String args[]) {
         int a = 15;
         Solution s = new Solution();

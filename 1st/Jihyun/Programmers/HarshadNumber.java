@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class HarshadNumber {
+class HarshadNumber {
     public static void main(String args[]) {
         int a = 10;
         Solution s = new Solution();

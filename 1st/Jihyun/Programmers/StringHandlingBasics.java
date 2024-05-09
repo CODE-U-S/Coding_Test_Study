@@ -12,7 +12,7 @@ class Solution {
     }
 }
 
-public class StringHandlingBasics {
+class StringHandlingBasics {
     public static void main(String[] args) {
         String a = "123a";
         Solution s = new Solution();

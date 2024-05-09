@@ -22,7 +22,7 @@ class Solution {
     }
 }
 
-public class RemoveMinNumber {
+class RemoveMinNumber {
 	public static void main(String[] args) {
 		int[] a = {4, 3, 2, 1};
 		Solution s = new Solution();

@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-public class AddDigits {
+class AddDigits {
     public static void main(String args[]) {
         int a = 123;
         Solution s = new Solution();

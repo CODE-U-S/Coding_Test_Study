@@ -6,7 +6,7 @@ class Solution {
     }
 }
 
-public class FindingKimInSeoul {
+class FindingKimInSeoul {
     public static void main(String args[]) {
         String[] babbling = { "Jane", "Kim" };
         Solution s = new Solution();

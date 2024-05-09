@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-public class PersonWhoTallerThanMeosseug {
+class PersonWhoTallerThanMeosseug {
     public static void main(String args[]) {
         int[] a = { 149, 180, 192, 170 };
         int b = 167;

@@ -17,7 +17,7 @@ class Solution {
     }
 }
 
-public class MorseCode {
+class MorseCode {
     public static void main(String args[]) {
         String letter = ".... . .-.. .-.. ---";
         Solution s = new Solution();

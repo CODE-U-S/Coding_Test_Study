@@ -9,7 +9,7 @@ class Solution {
     }
 }
 
-public class SmallSubstring {
+class SmallSubstring {
     public static void main(String args[]) {
         String a = "3141592";
         String b = "271";

@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-public class SumOfDivisors {
+class SumOfDivisors {
     public static void main(String args[]) {
         int a = 12;
         Solution s = new Solution();

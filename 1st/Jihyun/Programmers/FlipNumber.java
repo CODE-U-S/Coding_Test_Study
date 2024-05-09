@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class FlipNumber {
+class FlipNumber {
     public static void main(String args[]) {
         long a = 12345;
         Solution s = new Solution();

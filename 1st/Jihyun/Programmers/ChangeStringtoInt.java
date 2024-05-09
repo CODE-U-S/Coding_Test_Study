@@ -4,7 +4,7 @@ class Solution {
     }
 }
 
-public class ChangeStringtoInt {
+class ChangeStringtoInt {
     public static void main(String args[]) {
         String a = "-1234";
         Solution s = new Solution();
