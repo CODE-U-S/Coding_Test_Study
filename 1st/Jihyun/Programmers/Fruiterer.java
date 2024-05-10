@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class Fruiterer {
+class Fruiterer {
     public static void main(String args[]) {
         int k = 3, m = 4;
         int[] score = { 1, 2, 3, 1, 2, 3, 1 };

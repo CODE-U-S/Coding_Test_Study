@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-public class FindAverage {
+class FindAverage {
     public static void main(String[] args) {
         Solution s = new Solution();
         int[] arr = { 1, 2, 3, 4 };

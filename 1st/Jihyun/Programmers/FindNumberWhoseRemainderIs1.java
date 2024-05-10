@@ -10,7 +10,7 @@ class Solution {
     }
 }
 
-public class FindNumberWhoseRemainderIs1 {
+class FindNumberWhoseRemainderIs1 {
     public static void main(String args[]) {
         int a = 12;
         Solution s = new Solution();

@@ -9,7 +9,7 @@ class Solution {
     }
 }
 
-public class MakeWithL {
+class MakeWithL {
 	public static void main(String[] args) {
 		String a = "abcdevwxyz";
 		Solution s = new Solution();

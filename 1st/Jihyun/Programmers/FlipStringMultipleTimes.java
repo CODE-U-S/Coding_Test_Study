@@ -16,7 +16,7 @@ class Solution {
 	}
 }
 
-public class FlipStringMultipleTimes {
+class FlipStringMultipleTimes {
 	public static void main(String args[]) {
 		String my_string = "rermgorpsam";
 		int[][] queries = { { 2, 3 }, { 0, 7 }, { 5, 9 }, { 6, 10 } };

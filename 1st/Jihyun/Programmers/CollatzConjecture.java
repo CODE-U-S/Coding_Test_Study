@@ -19,7 +19,7 @@ class Solution {
     }
 }
 
-public class CollatzConjecture {
+class CollatzConjecture {
     public static void main(String args[]) {
         int num = 16;
         Solution s = new Solution();

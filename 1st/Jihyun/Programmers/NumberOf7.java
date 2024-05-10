@@ -10,7 +10,7 @@ class Solution {
     }
 }
 
-public class NumberOf7 {
+class NumberOf7 {
 	public static void main(String[] args) {
 		int[] a = {7, 77, 17};
 		Solution s = new Solution();

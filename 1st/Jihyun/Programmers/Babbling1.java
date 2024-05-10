@@ -14,7 +14,7 @@ class Solution {
     }
 }
 
-public class Babbling1 {
+class Babbling1 {
     public static void main(String args[]) {
         String[] babbling = { "aya", "yee", "u", "maa", "wyeoo" };
         Solution s = new Solution();

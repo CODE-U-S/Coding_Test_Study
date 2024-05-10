@@ -13,7 +13,7 @@ class Solution {
     }
 }
 
-public class AddMissingNumber {
+class AddMissingNumber {
     public static void main(String args[]) {
         int[] a = { 1, 2, 3, 4, 6, 7, 8, 0 };
         Solution s = new Solution();

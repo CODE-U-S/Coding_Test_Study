@@ -4,7 +4,7 @@ class Solution {
     }
 }
 
-public class StringFollowedByNCharacters {
+class StringFollowedByNCharacters {
     public static void main(String args[]) {
         String my_string = "ProgrammerS123";
         Solution s = new Solution();

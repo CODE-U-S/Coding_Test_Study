@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class FindTheNearest1 {
+class FindTheNearest1 {
     public static void main(String args[]) {
         int[] str = { 0, 0, 0, 1 };
         int idx = 3;

@@ -10,7 +10,7 @@ class Solution {
     }
 }
 
-public class MatrixAddition {
+class MatrixAddition {
     public static void main(String[] args) {
         Solution s = new Solution();
         int[][] a = { { 1, 2 }, { 2, 3 } };

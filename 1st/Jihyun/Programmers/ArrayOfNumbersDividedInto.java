@@ -23,7 +23,7 @@ class Solution {
     }
 }
 
-public class ArrayOfNumbersDividedInto {
+class ArrayOfNumbersDividedInto {
     public static void main(String[] args) {
         int[] a = { 5, 9, 7, 10 };
         int b = 5;
