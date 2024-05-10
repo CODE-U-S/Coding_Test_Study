@@ -16,7 +16,7 @@ class Solution {
     }
 }
 
-public class MaxAndMin {
+class MaxAndMin {
     public static void main(String[] args) {
         String a = "1 2 3 4";
         Solution s = new Solution();

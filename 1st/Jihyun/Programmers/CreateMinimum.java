@@ -17,7 +17,7 @@ class Solution
 }
 
 
-public class CreateMinimum {
+class CreateMinimum {
 	public static void main(String[] args) {
 		int[] a = {1, 4, 2};
 		int[] b = {5, 4, 4};

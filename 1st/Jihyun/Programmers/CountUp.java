@@ -7,7 +7,7 @@ class Solution {
     }
 }
 
-public class CountUp {
+class CountUp {
     public static void main(String args[]) {
         int start = 3;
         int end = 10;

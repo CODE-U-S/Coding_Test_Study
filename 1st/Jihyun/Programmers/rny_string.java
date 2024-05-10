@@ -4,7 +4,7 @@ class Solution {
     }
 }
 
-public class rny_string {
+class rny_string {
 	public static void main(String[] args) {
 		String a = "masterpiece";
 		Solution s = new Solution();

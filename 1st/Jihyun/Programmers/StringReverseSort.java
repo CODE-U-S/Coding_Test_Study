@@ -12,7 +12,7 @@ class Solution {
     }
 }
 
-public class StringReverseSort {
+class StringReverseSort {
     public static void main(String args[]) {
         String a = "ZbcdefgD";
         Solution s = new Solution();

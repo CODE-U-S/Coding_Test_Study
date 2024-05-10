@@ -9,7 +9,7 @@ class Solution {
     }
 }
 
-public class TritFlip {
+class TritFlip {
     public static void main(String[] args) {
         int a = 45;
         Solution s = new Solution();

@@ -12,7 +12,7 @@ class Solution {
     }
 }
 
-public class SumBetweenTwoNumber {
+class SumBetweenTwoNumber {
     public static void main(String[] args) {
         int a = 5;
         int b = 3;

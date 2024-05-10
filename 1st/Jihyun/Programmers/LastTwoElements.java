@@ -13,7 +13,7 @@ class Solution {
     }
 }
 
-public class LastTwoElements {
+class LastTwoElements {
     public static void main(String args[]) {
         int[] num_list = { 2, 1, 6 };
         Solution s = new Solution();

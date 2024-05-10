@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class CalculateInsufficientAmount {
+class CalculateInsufficientAmount {
     public static void main(String args[]) {
         Solution s = new Solution();
         System.out.println(s.solution(3, 20, 4));

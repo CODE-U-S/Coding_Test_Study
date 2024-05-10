@@ -4,7 +4,7 @@ class Solution {
     }
 }
 
-public class nDrainage {
+class nDrainage {
     public static void main(String args[]) {
         int num = 98, n = 2;
         Solution s = new Solution();

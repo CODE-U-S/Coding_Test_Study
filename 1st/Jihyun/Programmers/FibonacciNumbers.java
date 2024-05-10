@@ -12,7 +12,7 @@ class Solution {
     }
 }
 
-public class FibonacciNumbers {
+class FibonacciNumbers {
 	public static void main(String[] args) {
 		int a = 3;
 		Solution s = new Solution();

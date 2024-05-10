@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class SequenceAndIntervalQueries3 {
+class SequenceAndIntervalQueries3 {
     public static void main(String args[]) {
         int[] a = { 0, 1, 2, 3, 4 };
         int[][] b = { { 0, 3 }, { 1, 2 }, { 1, 4 } };
