@@ -11,7 +11,7 @@ class Solution {
     }
 }
 
-public class AddYinAndYang {
+class AddYinAndYang {
     public static void main(String args[]) {
         int[] a = { 4, 7, 12 };
         boolean[] b = { true, false, true };

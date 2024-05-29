@@ -5,7 +5,7 @@ class Solution {
     }
 }
 
-public class ReverseString {
+class ReverseString {
     public static void main(String args[]) {
         String a = "Hello World";
         String answer;

@@ -21,7 +21,7 @@ class Solution {
     }
 }
 
-public class IDontLikeSameNumber {
+class IDontLikeSameNumber {
     public static void main(String[] args) {
         int[] a = { 1, 1, 3, 3, 0, 1, 1 };
         Solution s = new Solution();

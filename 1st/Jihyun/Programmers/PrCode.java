@@ -7,7 +7,7 @@ class Solution {
     }
 }
 
-public class PrCode {
+class PrCode {
     public static void main(String args[]) {
         Solution s = new Solution();
         System.out.println(s.solution(3, 1, "qjnwezgrpirldywt"));

@@ -17,7 +17,7 @@ class Solution {
     }
 }
 
-public class MemoriesScore {
+class MemoriesScore {
     public static void main(String args[]) {
         String[] name = { "may", "kein", "kain", "radi" };
         int[] yearning = { 5, 10, 1, 3 };

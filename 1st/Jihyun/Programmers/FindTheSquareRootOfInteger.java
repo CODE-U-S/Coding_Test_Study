@@ -9,7 +9,7 @@ class Solution {
     }
 }
 
-public class FindTheSquareRootOfInteger {
+class FindTheSquareRootOfInteger {
     public static void main(String args[]) {
         long a = 121;
         Solution s = new Solution();
