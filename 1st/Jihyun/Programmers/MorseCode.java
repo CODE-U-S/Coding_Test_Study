@@ -1,15 +1,14 @@
-package Programmers;
-
 class Solution {
     public String solution(String letter) {
         String answer = "";
-        String[] mos = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
+        String[] mos = { ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--",
+                "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.." };
         String[] letters = letter.split(" ");
 
-        for(int i = 0; i < letters.length; i++) {
-            for(int j = 0; j < mos.length; j++) {
-                if(letters[i].equals(mos[j])) {
-                    answer += (char)(j + 97);
+        for (int i = 0; i < letters.length; i++) {
+            for (int j = 0; j < mos.length; j++) {
+                if (letters[i].equals(mos[j])) {
+                    answer += (char) (j + 97);
                 }
             }
         }
@@ -18,7 +17,7 @@ class Solution {
     }
 }
 
-public class MorseCode {
+class MorseCode {
     public static void main(String args[]) {
         String letter = ".... . .-.. .-.. ---";
         Solution s = new Solution();
