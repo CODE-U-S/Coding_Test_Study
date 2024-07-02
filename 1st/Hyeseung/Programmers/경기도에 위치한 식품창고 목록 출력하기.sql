@@ -1,0 +1,1 @@
+SELECT warehouse_id, warehouse_name, address, IF(freezer_yn IS NULL, 'N', freezer_yn) freezer_yn from food_warehouse where address like '경기%' order by warehouse_id
