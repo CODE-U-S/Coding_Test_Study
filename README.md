@@ -20,6 +20,7 @@
   2. Merge 시 이슈 등록 예정 -> 이슈 확인 후 pull 진행
   3. 혹시나 오류 사항이나 잘못된 수정 부분은 이슈에 등록
   4. commit 규칙 지키기 / PR 규칙 지키기 / Issue 규칙 지키기 (소스코드 파일 이름은 자유)
+  5. .gitignore와 README.md, github 폴더 삭제하지 않기
  
 <br>
  
