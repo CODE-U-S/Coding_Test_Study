@@ -1,6 +1,5 @@
 def solution(l, r):
     answer = []
-    temp = [-1]
     for i in range(l,r+1):
         if str(i).count('0') + str(i).count('5') == len(str(i)):
             answer.append(i)
