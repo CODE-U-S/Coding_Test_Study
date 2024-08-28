@@ -20,6 +20,7 @@ class BaekJoon_18312 {
 				}
 			}
 		}
+		sc.close();
 		
 		System.out.println(count);
 	}
