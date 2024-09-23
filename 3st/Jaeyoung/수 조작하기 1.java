@@ -3,7 +3,7 @@ class Solution {
         int answer = 0;
         for(int i=0; i<control.length(); i++)
             switch(control.charAt(i)){
-                case 'w': 
+                case 'w' : 
                     n+=1;
                     break;
                 case 's': 
