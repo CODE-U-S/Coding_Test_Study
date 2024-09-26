@@ -2,7 +2,7 @@ class Solution {
     public String solution(String a, String b) {
         int maxLen = Math.max(a.length(), b.length());
         
-        a = LPAD(a, maxLen);
+        a = LPAD(a, maxLen);n
         b = LPAD(b, maxLen);
         
         StringBuilder sb = new StringBuilder();
