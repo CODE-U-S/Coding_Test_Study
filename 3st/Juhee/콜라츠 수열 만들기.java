@@ -8,12 +8,12 @@ class Solution {
         while (n != 1) {
             if (n % 2 == 0) {
                 n /= 2;
-            } else {
+            } 
+            else {
                 n = 3 * n + 1;
             }
             temp[index++] = n;
         }
-
         int[] answer = new int[index];
         for (int i = 0; i < index; i++) {
             answer[i] = temp[i];
