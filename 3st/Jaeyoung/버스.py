@@ -32,6 +32,6 @@ def solution(seat, passengers):
 
         num_passenger -= func3(station)
 
-    answer = func1(seat - num_passenger)
+    answer =func1(seat - num_passenger)
 
     return answer
