@@ -13,7 +13,7 @@ def solution(video_len, pos, op_start, op_end, commands):
 
     for c in commands:
         if c == "prev":
-            if (ss-10 < 0) and (mm>=1 ): 
+            if (ss-10 < 0) and ( mm>=1 ): 
                 mm -= 1
                 ss = 60+(ss-10)
             else:
