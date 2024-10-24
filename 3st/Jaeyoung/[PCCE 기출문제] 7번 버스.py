@@ -14,7 +14,7 @@ def func3(station):
     num = 0
     for people in station:
         if people == "Off":
-            num += 1
+            num +=1
     return num
 
 def func4(station):
