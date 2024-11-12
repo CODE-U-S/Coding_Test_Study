@@ -10,7 +10,7 @@ class Solution {
                 factors.add(i);  
                 
                 while (n % i == 0) {
-                    n /= i; // 소인수로 나눈다
+                    n /= i; 
                 }
             }
         }
