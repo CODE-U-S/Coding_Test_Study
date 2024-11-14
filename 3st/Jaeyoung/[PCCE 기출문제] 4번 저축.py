@@ -12,5 +12,3 @@ while money < 100:
     month += 1
 
 print(month)
-profile
-장
