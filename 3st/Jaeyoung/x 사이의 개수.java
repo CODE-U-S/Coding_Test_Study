@@ -9,4 +9,4 @@ class Solution {
 
         return lengths;
     }
-}
+}   
