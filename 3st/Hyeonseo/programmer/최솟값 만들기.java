@@ -12,5 +12,4 @@ class Solution{
         return answer;
     }
 }
-
 //level 2
