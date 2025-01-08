@@ -10,5 +10,5 @@ class Solution {
         int minProduct = numbers[0] * numbers[1];
 
         return Math.max(maxProduct, minProduct);
-    }
+     }
 }
