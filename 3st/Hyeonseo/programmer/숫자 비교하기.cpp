@@ -11,4 +11,3 @@ int solution(int num1, int num2) {
     return answer;
 }
 //level 0
-
