@@ -2,7 +2,6 @@ class Solution {
     public int solution(String binomial) {
         int answer = 0;
         
-        // 이항식을 공백을 기준으로 분리
         String[] parts = binomial.split(" ");
         
         int a = Integer.parseInt(parts[0]);
