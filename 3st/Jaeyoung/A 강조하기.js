@@ -6,4 +6,4 @@ function solution(myString) {
         else answer[i] = answer[i].toLowerCase();
     }
     return answer.join('');
-}
+}0
