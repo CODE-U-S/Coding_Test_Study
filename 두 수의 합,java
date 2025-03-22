@@ -1,7 +1,0 @@
-class height{
-    public static void main (String args[]){
-        int answer = 10;
-        answer--;
-        주리쌤 사랑해요 주리쌤 
-    }
-}
