@@ -8,7 +8,7 @@ public class Main {
         int B = sc.nextInt();
         int C = sc.nextInt();
  
-        int min = 60 * A + B;   
+        int min = 60 * A + B;   n
         min += C;
  
         int hour = (min / 60) % 24;
