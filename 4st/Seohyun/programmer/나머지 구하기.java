@@ -1,4 +1,3 @@
-4st.Seohyun.programmer;
 
     class Solution {
         public int solution(int num1, int num2) {
