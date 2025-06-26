@@ -12,7 +12,7 @@ class Solution {
         return new int[]{Bunza / gcd, Bunmo / gcd};
     }
 
-    // 최대공약수(GCD) 구하는 함수
+    // 최대공약수(GCD) 구하는 함수 
     private int getGCD(int a, int b) {
         while (b != 0) {
             int imsi = b;
