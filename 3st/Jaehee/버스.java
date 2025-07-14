@@ -2,16 +2,10 @@ class Solution {
     public int solution(int seat, String[][] passengers) {
         int num_passenger = 0;
         for(int i=0; i<passengers.length; i++){
-            num_passenger += func
-4(passengers[i])
-;
-            num_passenger -= func
-3(passengers[i])
-;
+            num_passenger += func4(passengers[i]);
+            num_passenger -= func3(passengers[i]);
         }
-        int answer = func
-1(seat-num_passenger)
-;
+        int answer = func1(seat-num_passenger);
         return answer;
     }
 
