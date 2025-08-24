@@ -1,1 +1,0 @@
-SELECT min(DATETIME) from ANIMAL_INS limit 1;
