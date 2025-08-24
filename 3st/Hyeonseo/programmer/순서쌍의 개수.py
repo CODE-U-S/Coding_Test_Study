@@ -4,3 +4,4 @@ def solution(n):
         if n % i == 0:
             answer += 2 if i != n // i else 1 
     return answer
+
