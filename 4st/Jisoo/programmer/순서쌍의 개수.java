@@ -5,7 +5,6 @@ class Solution {
             if(n%i==0){
               answer++;  
             }
-                
         }
         return answer;
     }
