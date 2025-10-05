@@ -1,6 +1,1 @@
-select T.ITEM_ID, I.ITEM_NAME
-from ITEM_INFO I
-join ITEM_TREE T
-on I.ITEM_ID = T.ITEM_ID
-WHERE T.PARENT_ITEM_ID IS NULL
-order by T.ITEM_ID;
+-- 코드를 작성해주세요
