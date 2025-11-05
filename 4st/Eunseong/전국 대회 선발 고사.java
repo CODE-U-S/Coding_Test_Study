@@ -16,7 +16,7 @@ class Solution {
                 break;
             }
         }
-        
+
         return 10000 * top3[0] + 100 * top3[1] + top3[2];
     }
 }
