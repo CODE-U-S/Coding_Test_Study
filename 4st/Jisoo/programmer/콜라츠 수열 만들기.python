@@ -1,0 +1,12 @@
+def solution(n: int) -> list:
+    if n <= 0:
+        raise ValueError("n은 양의 정수여야 합니다.")
+    seq = [n]
+    while n != 1:
+        if n % 2 == 0:
+            n = n // 2
+        else:
+            n = 3 * n + 1
+        seq.append(n)
+    return seq
+
