@@ -1,10 +1,10 @@
 # [level 0] k의 개수 - 120887 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120887?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120887) 
 
 ### 성능 요약
 
-메모리: 9.12 MB, 시간: 26.31 ms
+메모리: 87.2 MB, 시간: 24.95 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 11월 30일 20:37:53
+2026년 01월 03일 21:52:51
 
 ### 문제 설명
 
