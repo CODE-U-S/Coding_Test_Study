@@ -1,0 +1,35 @@
+select
+    H.HOUR,                             -- 시간대 (0~23)
+    count(A.ANIMAL_ID) as count        -- 해당 시간대 입양 건수
+from
+(
+    -- 시간 테이블 생성 (0~23)
+    select 0 as HOUR union all
+    SELECT 1 UNION ALL
+    SELECT 2 UNION ALL
+    SELECT 3 UNION ALL
+    SELECT 4 UNION ALL
+    SELECT 5 UNION ALL
+    SELECT 6 UNION ALL
+    SELECT 7 UNION ALL
+    SELECT 8 UNION ALL
+    SELECT 9 UNION ALL
+    SELECT 10 UNION ALL
+    SELECT 11 UNION ALL
+    SELECT 12 UNION ALL
+    SELECT 13 UNION ALL
+    SELECT 14 UNION ALL
+    SELECT 15 UNION ALL
+    SELECT 16 UNION ALL
+    SELECT 17 UNION ALL
+    SELECT 18 UNION ALL
+    SELECT 19 UNION ALL
+    SELECT 20 UNION ALL
+    SELECT 21 UNION ALL
+    SELECT 22 UNION ALL
+    SELECT 23
+) H
+left join ANIMAL_OUTS A
+    on H.HOUR = HOUR(A.DATETIME)
+group by H.HOUR
+order by H.HOUR;
