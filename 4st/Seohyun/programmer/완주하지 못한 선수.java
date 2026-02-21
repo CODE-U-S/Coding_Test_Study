@@ -5,11 +5,11 @@ class Solution {
         
         HashMap<String, Integer> map = new HashMap<>();
         
-        for(String name : participant) {
+        for(String name : participant) {    //참가자 명단
             map.put(name, map.getOrDefault(name, 0)+1);
         }
         
-        for(String name : completion) {
+        for(String name : completion) {     //완주자 명단
             map.put(name, map.get(name)-1);
         }
         
