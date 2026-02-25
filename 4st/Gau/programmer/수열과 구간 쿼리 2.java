@@ -12,6 +12,7 @@ class Solution {
                 }
             }
             if (min != Integer.MAX_VALUE) {
+                
                 answer[i] = min;
             } else {
                 answer[i] = -1;
