@@ -10,7 +10,6 @@ class Solution {
                 min = arr[i];
             }
         }
-
         int[] answer = new int[arr.length - 1];
         int idx = 0;
 

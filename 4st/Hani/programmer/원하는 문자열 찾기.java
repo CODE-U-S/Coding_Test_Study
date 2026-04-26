@@ -6,14 +6,7 @@ class Solution {
         myString = myString.toLowerCase();
         pat = pat.toLowerCase();
         
-        for (int i = 0; i < myString.length() - pat.length(); i++) {
-            for (int j = 0; j < pat.length(); j++) {
-                if (myString.charAt(i + j) == pat.charAt(j)) {
-                    count++;
-                }
-            } 
-        }
-        if (count == pat.length()) {
+        if (myString.contains(pat)) {
             answer = 1;
         }
     
