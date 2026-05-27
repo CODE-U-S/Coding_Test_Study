@@ -1,10 +1,10 @@
 # [level 0] 가장 큰 수 찾기 - 120899 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120899) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript) 
 
 ### 성능 요약
 
-메모리: 70.6 MB, 시간: 0.01 ms
+메모리: 32.4 MB, 시간: 0.11 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 19일 08:31:04
+2026년 05월 16일 14:32:49
 
 ### 문제 설명
 
