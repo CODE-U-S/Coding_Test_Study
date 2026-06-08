@@ -11,7 +11,7 @@ class Solution {
                 n /= 2;
             } else {
                 n = n * 3 + 1;
-            }
+            }소
         }
 
         return -1;
