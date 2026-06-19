@@ -1,12 +1,18 @@
 class Solution {
     public long solution(long n) {
         long answer = 0;
-        for (int i = 1; i < 50; i++) {
-            if (i * i == n) {
-                answer = (i + 1) * (i + 1);
+        
+        double x = Math.sqrt(n);
+        
+        if (x == (long)x) {
+           if (x > 0) {
+               answer += (x+1) * (x+1);
+           }
+            else {
+                answer = -1;
             }
         }
-        if (answer == 0) {
+        else {
             answer = -1;
         }
         return answer;
