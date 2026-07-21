@@ -1,7 +1,8 @@
 def solution(my_string, letter):
     answer = ''
     
-    for ch in my_string :
-        if ch != letter :
-            answer += ch
+    for i in range(len(my_string)) :
+        if my_string[i] != letter :
+            answer += my_string[i]
+        
     return answer
