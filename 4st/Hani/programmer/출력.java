@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+class Solution {
     public static void main(String[] args) {
         String msg = "Spring is beginning";
         int val1 = 3;
