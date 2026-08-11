@@ -1,4 +1,4 @@
-public class Main{
+class Main{
     public static void main(String args[]){
         System.out.print("|\\_/|\n");
         System.out.print("|q p|   /}\n");
