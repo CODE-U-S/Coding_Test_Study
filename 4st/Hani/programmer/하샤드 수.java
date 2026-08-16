@@ -1,21 +1,15 @@
 class Solution {
     public boolean solution(int x) {
         boolean answer = true;
-         
-        int one = 0;
-        int ten = 0;
         
-        one = x % 10;
-        ten = (x / 10) % 10;
-        
-        int sum = one + ten;
-        
-        if (x % sum == 0) {
-            answer = true;
+        int temp = x;
+        int sum = 0;
+        while (temp > 0) {
+            sum += temp % 10;
+            temp /= 10;
         }
-        else {
-            answer = false;
-        }
+        
+        if (x % sum != 0) answer = false;
         
         return answer;
     }
