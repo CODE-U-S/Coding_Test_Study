@@ -6,7 +6,6 @@ class Solution {
         
         Arrays.sort(d);
         
-        label : 
         for (int i : d) {
             if (budget >= i) {
                 budget -= i;

@@ -8,5 +8,6 @@ class Main {
             sum += i;
         }
         System.out.print(sum);
+        sc.close();
     }
 }

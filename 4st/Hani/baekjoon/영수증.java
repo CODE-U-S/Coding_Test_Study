@@ -16,5 +16,7 @@ class Main {
         else {
             System.out.print("No");
         }
+
+        sc.close();
     }
 }
