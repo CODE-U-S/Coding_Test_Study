@@ -31,5 +31,7 @@ else
 {
             System.out.println("direct recommendation");
         }
+
+        sc.close();
     }
 }

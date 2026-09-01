@@ -2,7 +2,6 @@ class Solution {
     public int solution(int[][] sizes) {
         int answer = 0;
 
-        int temp = 0;
         int[][] re = new int[sizes.length][2];
         
         for (int i = 0; i < sizes.length; i++) { // 가로

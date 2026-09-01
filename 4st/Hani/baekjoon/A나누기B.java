@@ -5,5 +5,6 @@ class Main {
         double A = sc.nextInt();
         double B = sc.nextInt();
         System.out.println(A / B);
+        sc.close();
     }
 }

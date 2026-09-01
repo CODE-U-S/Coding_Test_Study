@@ -5,5 +5,6 @@ class Main {
 		int num1 = sc.nextInt();
 		int num2 = num1 - 543;
 		System.out.print(num2);
+		sc.close();
 	}
 }
