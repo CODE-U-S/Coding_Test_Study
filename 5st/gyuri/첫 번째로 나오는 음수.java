@@ -1,4 +1,4 @@
-class Solution {
+git log -1class Solution {
     public int solution(int[] num_list) {
         int answer = 0;
         
